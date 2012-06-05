@@ -1,6 +1,6 @@
-diff -up redis-2.2.2/redis.conf.orig redis-2.2.2/redis.conf
---- redis-2.2.2/redis.conf.orig	2011-03-26 09:25:58.447039591 -0400
-+++ redis-2.2.2/redis.conf	2011-03-26 09:28:09.116651574 -0400
+diff -up redis-2.4.14/redis.conf.orig redis-2.4.14/redis.conf
+--- redis-2.4.14/redis.conf.orig	2011-03-26 09:25:58.447039591 -0400
++++ redis-2.4.14/redis.conf	2011-03-26 09:28:09.116651574 -0400
 @@ -14,11 +14,11 @@
  
  # By default Redis does not run as a daemon. Use 'yes' if you need it.
