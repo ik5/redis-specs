@@ -2,7 +2,7 @@
 # http://code.google.com/p/redis/issues/detail?id=202
 
 Name:             redis
-Version:          2.4.14
+Version:          2.4.15
 Release:          1
 Summary:          A persistent key-value database
 
